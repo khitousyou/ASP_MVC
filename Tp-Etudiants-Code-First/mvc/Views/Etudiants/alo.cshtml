@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Liste";
+}
+
+
+<ul>
+    @foreach (var A in (List<String>)ViewData["khi"])
+    {
+        <li>@A</li>
+    }
+    
+</ul>
+

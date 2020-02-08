@@ -1,0 +1,20 @@
+﻿@model  IEnumerable<Assembly_apple_methode.Etudiants>
+
+@{
+    ViewBag.Title = "getTous";
+}
+
+<div style="font-family:Arial">
+    <h2>Etudiant List</h2>
+    <ul>
+
+        @foreach (Assembly_apple_methode.Etudiants etu in Model)
+        {
+            <li>
+                @Html.ActionLink(etu.nom, "Index", new { @id = etu.id })
+            </li>
+        }
+
+    </ul>
+</div>
+@Html.ActionLink("redirection index", "index1")

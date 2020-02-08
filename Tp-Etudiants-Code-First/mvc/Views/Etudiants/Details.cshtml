@@ -1,0 +1,35 @@
+﻿@model Assembly_apple_methode.Etudiants
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<table style="font-family:Arial">
+    <tr>
+        <td>
+            Etudiants ID:
+        </td>
+        <td>
+            @Model.id
+        </td>
+
+    <tr>
+        <td>
+            Etudiants  :
+        </td>
+        <td>
+            @Model.nom
+        </td>
+
+    <tr>
+        <td>
+             Prenom
+        </td>
+        <td>
+            @Model.Prenom
+        </td>
+
+
+</table>
+@Html.ActionLink("redirection index", "index1")

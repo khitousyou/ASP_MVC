@@ -1,0 +1,12 @@
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\Assembly_apple_methode.dll
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\Assembly_apple_methode.pdb
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\EntityFramework.dll
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\EntityFramework.xml
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\obj\Debug\Assembly_apple_methode.csproj.CoreCompileInputs.cache
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\obj\Debug\Assembly_apple_methode.csproj.CopyComplete
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\obj\Debug\Assembly_apple_methode.dll
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\obj\Debug\Assembly_apple_methode.pdb
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\Assembly_apple_methode.dll.config
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Developpeur\source\repos\Tp-Etudiants-Code-First\Assembly_apple_methode\obj\Debug\Assembly_apple_methode.csprojAssemblyReference.cache
